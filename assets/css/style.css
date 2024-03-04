@@ -859,7 +859,7 @@ section {
 }
 
 .services .icon-box h4 a:hover {
-  color: #73f552;
+  color: linear-gradient(90deg, green, rgb(212, 255, 19),rgb(19, 255, 145));
 }
 
 .services .icon-box p {
